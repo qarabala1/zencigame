@@ -1,0 +1,4 @@
+res://Assets/Scenes/Areas/area_1.tscn
+res://Assets/Scenes/player.tscn
+res://Assets/Scripts/player_animator.gd
+res://Assets/Scripts/player_controller.gd

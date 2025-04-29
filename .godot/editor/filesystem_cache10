@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1745929600
+icon.svg::CompressedTexture2D/CompressedTexture2D::765007987022296679::1745917532::1745917581::1::::<><><>0<>0<>9282f26447b1094076569f54f30a5293<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile/TextFile::-1::1745917532::0::1::::<><><>0<>0<><>::
+::res://Assets/::1745917542
+::res://Assets/Scenes/::1745929564
+player.tscn::PackedScene::6055172842137533099::1745929564::0::1::::<><><>0<>0<><>::uid://cfbdxhlgr3bgt::::res://Assets/Spirites/player.png<>uid://tkvhwj61vmrm::::res://Assets/Scripts/player_controller.gd<>uid://dlosqrdarti0o::::res://Assets/Scripts/player_animator.gd
+::res://Assets/Scenes/Areas/::1745929564
+area_1.tscn::PackedScene::2526520907431562683::1745929564::0::1::::<><><>0<>0<><>::uid://c3gxqs7junv85::::res://Assets/Spirites/tiles_1.png<>uid://csjf2uyl4cmyl::::res://Assets/Scenes/player.tscn
+::res://Assets/Scripts/::1745929412
+player_animator.gd::GDScript::7961362995781611240::1745929412::0::1::::<>Node2D<><>0<>0<><>::
+player_controller.gd::GDScript/GDScript::1355520534929668710::1745928961::0::1::::PlayerController<>CharacterBody2D<><>0<>0<><>::
+::res://Assets/Spirites/::1745917581
+enemy_1.png::CompressedTexture2D/CompressedTexture2D::1599907441045577149::1745917532::1745917581::1::::<><><>0<>0<>ddbc7a8e3e2206c75922299cb7e989f3<>res://.godot/imported/enemy_1.png-fc6549ea63e339acb01291c66bc60333.ctex::
+player.png::CompressedTexture2D/CompressedTexture2D::5126073572521267539::1745917532::1745917581::1::::<><><>0<>0<>9c498a67d2d0967612c09a34d62eb1c1<>res://.godot/imported/player.png-304e1f45794193fe3a28b9d571399b9c.ctex::
+tiles_1.png::CompressedTexture2D/CompressedTexture2D::6751941314601800348::1745917532::1745917581::1::::<><><>0<>0<>c193eaa229d4ccb0fec0a11de821f70c<>res://.godot/imported/tiles_1.png-b65bceec8be68a6217da9676aaa73edd.ctex::
